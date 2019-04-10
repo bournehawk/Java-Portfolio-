@@ -1,0 +1,6 @@
+/Users/sarahhulcy/Library/Mobile Documents/com~apple~CloudDocs/C# Projects/Variables/Variables/bin/Debug/Variables.exe
+/Users/sarahhulcy/Library/Mobile Documents/com~apple~CloudDocs/C# Projects/Variables/Variables/bin/Debug/Variables.pdb
+/Users/sarahhulcy/Library/Mobile Documents/com~apple~CloudDocs/C# Projects/Variables/Variables/obj/x86/Debug/Variables.csprojAssemblyReference.cache
+/Users/sarahhulcy/Library/Mobile Documents/com~apple~CloudDocs/C# Projects/Variables/Variables/obj/x86/Debug/Variables.csproj.CoreCompileInputs.cache
+/Users/sarahhulcy/Library/Mobile Documents/com~apple~CloudDocs/C# Projects/Variables/Variables/obj/x86/Debug/Variables.exe
+/Users/sarahhulcy/Library/Mobile Documents/com~apple~CloudDocs/C# Projects/Variables/Variables/obj/x86/Debug/Variables.pdb

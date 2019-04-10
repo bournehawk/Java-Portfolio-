@@ -1,0 +1,6 @@
+/Users/sarahhulcy/Library/Mobile Documents/com~apple~CloudDocs/C# Projects/Arrays/Arrays/bin/Debug/Arrays.exe
+/Users/sarahhulcy/Library/Mobile Documents/com~apple~CloudDocs/C# Projects/Arrays/Arrays/bin/Debug/Arrays.pdb
+/Users/sarahhulcy/Library/Mobile Documents/com~apple~CloudDocs/C# Projects/Arrays/Arrays/obj/x86/Debug/Arrays.csprojAssemblyReference.cache
+/Users/sarahhulcy/Library/Mobile Documents/com~apple~CloudDocs/C# Projects/Arrays/Arrays/obj/x86/Debug/Arrays.csproj.CoreCompileInputs.cache
+/Users/sarahhulcy/Library/Mobile Documents/com~apple~CloudDocs/C# Projects/Arrays/Arrays/obj/x86/Debug/Arrays.exe
+/Users/sarahhulcy/Library/Mobile Documents/com~apple~CloudDocs/C# Projects/Arrays/Arrays/obj/x86/Debug/Arrays.pdb
